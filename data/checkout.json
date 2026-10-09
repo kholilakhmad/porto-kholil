@@ -1,0 +1,21 @@
+{
+    "validAddress": {
+        "firstName": "QA",
+        "lastName": "Automation",
+        "company": "QA Portfolio",
+        "address1": "Jl. Testing No. 10",
+        "address2": "Test Building",
+        "country": "India",
+        "state": "Test State",
+        "city": "Test City",
+        "zipcode": "12345",
+        "mobileNumber": "081234567890"
+    },
+    "payment": {
+        "nameOnCard": "QA Automation",
+        "cardNumber": "4111111111111111",
+        "cvc": "123",
+        "expiryMonth": "12",
+        "expiryYear": "2030"
+    }
+}

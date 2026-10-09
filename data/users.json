@@ -1,0 +1,29 @@
+{
+    "validUser": {
+        "name": "QA Automation User",
+        "email": "qa.automation@example.com",
+        "password": "TestPass123!",
+        "title": "Mr",
+        "birthDate": "15",
+        "birthMonth": "May",
+        "birthYear": "1995",
+        "firstName": "QA",
+        "lastName": "Automation",
+        "company": "QA Portfolio",
+        "address1": "Jl. Testing No. 10",
+        "address2": "Test Building",
+        "country": "India",
+        "state": "Test State",
+        "city": "Test City",
+        "zipcode": "12345",
+        "mobileNumber": "081234567890"
+    },
+    "invalidUser": {
+        "email": "invalid@example.com",
+        "password": "WrongPassword123!"
+    },
+    "emptyUser": {
+        "email": "",
+        "password": ""
+    }
+}

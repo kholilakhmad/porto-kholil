@@ -1,0 +1,28 @@
+{
+    "searchCases": [
+        {
+            "id": "SEARCH-001",
+            "keyword": "top",
+            "expectedResults": true
+        },
+        {
+            "id": "SEARCH-002",
+            "keyword": "dress",
+            "expectedResults": true
+        },
+        {
+            "id": "SEARCH-003",
+            "keyword": "nonexistentproductxyz123",
+            "expectedResults": false
+        }
+    ],
+    "productAssertions": {
+        "requiredFields": [
+            "id",
+            "name",
+            "price",
+            "brand",
+            "category"
+        ]
+    }
+}
